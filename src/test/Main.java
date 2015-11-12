@@ -11,7 +11,7 @@ public class Main {
 			int allCount = scan.nextInt();
 			int countPer = scan.nextInt();
 			if(allCount%(countPer+1)>0)
-				System.out.println("Win");
+				System.out.println("Winyyyyy");
 			else System.out.println("Lose");
 		}
 	}
